@@ -6,4 +6,5 @@
     function badfunction(){
         return null;
     }
+    //unwanted comment
 ?>
